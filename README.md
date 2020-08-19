@@ -6,3 +6,4 @@ Main Folder/main.py
                   /5.png
                   
 Also pyperclip (a third-party module) should be installed.
+5.png is the Logo and 3.png is the Image in the GUI
